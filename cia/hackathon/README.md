@@ -1,4 +1,4 @@
-[GoLLib.py](https://bde-pops.github.io/VPS-DATA/cia/hackathon/GoLLib.py)
+[GoLLib.py](https://bde-pops.github.io/VPS-DATA/cia/hackathon/GoLLib.py)\n
 [display.zip](https://bde-pops.github.io/VPS-DATA/cia/hackathon/display.zip)
 
 Pour afficher le jeu de la vie, vous devez :
